@@ -1,8 +1,8 @@
 # Git / GitHub Documentation #
 
-## Git ##
+### Git ###
 
-### What it is ###
+#### What it is ####
 
 **Git** is a program that will keep track of changes to your files. You use Git locally (on your computer) to manage files that make up a website or application. It lives in the folder with your files and keeps track of changes to files in that folder. 
 
